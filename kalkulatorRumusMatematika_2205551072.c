@@ -472,8 +472,7 @@ void trapesium()
 
 void tSalah()
 {
-    sleep(1);
-    system("cls");
+    inputSalah();
     trapesium();
 }
 
@@ -527,8 +526,7 @@ void segitiga()
 
 void sSalah()
 {
-    sleep(1);
-    system("cls");
+    inputSalah();
     segitiga();
 }
 
@@ -620,8 +618,7 @@ void balok()
 
 void bSalah()
 {
-    sleep(1);
-    system("cls");
+    inputSalah();
     balok();
 }
 
@@ -669,8 +666,7 @@ void limasPersegi()
 
 void lPSalah()
 {
-    sleep(1);
-    system("cls");
+    inputSalah();
     limasPersegi();
 }
 
@@ -756,8 +752,7 @@ void kerucut()
 
 void kSalah()
 {
-    sleep(1);
-    system("cls");
+    inputSalah();
     kerucut();
 }
 
@@ -801,8 +796,7 @@ void tabung()
 
 void TSalah()
 {
-    sleep(1);
-    system("cls");
+    inputSalah();
     tabung();
 }
 
