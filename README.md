@@ -1,6 +1,7 @@
 # Tugas-Alprog
 I Gusti Ayu Krisna Kusuma Dewi - 2205551072 
 Pada program C ini berisikan rumus-rumus operasi aritmetika yang dapat digunakan untuk menyelesaikan suatu perhitungan dengan menggunakan fungsi dan prosedur. Program ini mengaplikasikan fungsi serta prosedur di dalam setiap pemanggilan menu dan rumus yang akan digunakan.
+*Note : dalam scr
 
 
 # Penggunaan Program Ini
@@ -14,7 +15,7 @@ Pada program C ini berisikan rumus-rumus operasi aritmetika yang dapat digunakan
 Berikut adalah output dari program rumus operasi aritmetika.
 
 ## Menu Utama
-![menu utama](https://user-images.githubusercontent.com/113322119/196032430-45121103-c387-4b29-8a14-13031ded15b2.png)
+![image](https://user-images.githubusercontent.com/113322119/196034833-e3baf98b-f806-42c7-9487-9d1fa8068e9d.png)
 
 ## Menu Bangun Datar
 ![menu bangun datar](https://user-images.githubusercontent.com/113322119/196032500-a28d5f68-e26d-483a-a53e-8f32d59e4527.png)
