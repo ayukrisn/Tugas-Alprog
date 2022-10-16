@@ -1,14 +1,17 @@
 # Tugas-Alprog
-I Gusti Ayu Krisna Kusuma Dewi - 2205551072 
+I Gusti Ayu Krisna Kusuma Dewi - 2205551072 \n
 Pada program C ini berisikan rumus-rumus operasi aritmetika yang dapat digunakan untuk menyelesaikan suatu perhitungan dengan menggunakan fungsi dan prosedur. Program ini mengaplikasikan fungsi serta prosedur di dalam setiap pemanggilan menu dan rumus yang akan digunakan.
-*Note : dalam scr
 
 
 # Penggunaan Program Ini
-- Menu        : Pengguna diarahkan pada menu yang mana dapat diakses dengan memasukkan input pilihan yang diberikan (berupa angka/integer) dan menekan enter
-- Kalkulator  : Pengguna memasukkan angka yang diperlukan dan menekan enter. Program akan memberikan hasil dari perhitungan tersebut.
-- Pengulangan : Setelah mendapatkan hasil, pengguna dapat kembali ke menu awal dengan memasukkan input 'Y' atau keluar dari program dengan memasukkan input 'N'
-- Salah input : Bila pengguna memasukkan input yang salah, maka program akan meminta pengguna untuk memasukkan input yang benar.
+### Menu
+Pada setiap bagian menu (baik menu utama maupun sub menu), pengguna diharapkan untuk memasukkan pilihan berupa angka/integer sesuai dengan fitur yang ingin diakses dan lalu menekan enter.
+### Kalkulator
+Setelah memasuki fitur, Pengguna memasukkan angka yang diperlukan (dapat berupa float maupun integer) dan menekan enter. Program akan memberikan hasil dari perhitungan tersebut.
+### Pengulangan 
+Setelah mendapatkan hasil, pengguna dapat kembali ke menu awal dengan memasukkan input 'Y' atau keluar dari program dengan memasukkan input 'N'.
+### Salah input
+Bila pengguna memasukkan input yang salah (contoh: kesalahan dalam memasukkan tipe data), maka program akan meminta pengguna untuk memasukkan input yang benar.
 
 
 # Output Program
