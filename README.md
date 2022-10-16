@@ -35,7 +35,15 @@ Dalam segitiga, pengguna harus memasukkan nilai di mana a + b > c atau salah sat
 ## Menu Bangun Ruang
 ![menu bangun ruang](https://user-images.githubusercontent.com/113322119/196032508-6dbc2dfc-0d31-4d63-a5a0-e029aee295df.png)
 ### 1. Rumus Balok
-
+![balok](https://user-images.githubusercontent.com/113322119/196033971-18545303-9462-45a1-a24a-79b3f93c1663.png)
+### 2. Rumus Limas Persegi
+![limas persegi](https://user-images.githubusercontent.com/113322119/196033986-d654874d-1556-4e16-b1a4-e28b5f51f3e0.png)
+### 3. Rumus Bola
+![bola](https://user-images.githubusercontent.com/113322119/196034049-d24fcab4-a558-425a-80c7-f6f338553933.png)
+### 4. Rumus Kerucut
+![kerucut](https://user-images.githubusercontent.com/113322119/196034052-f85c96ee-9081-4044-b200-c8816d14daf4.png)
+### 5. Rumus Tabung
+![tabung](https://user-images.githubusercontent.com/113322119/196034059-033e2bbb-a5db-40d1-ae8b-d5de83a9bff8.png)
 
 
 ## Menu Baris dan Deret Aritmetika
