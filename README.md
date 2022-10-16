@@ -1,17 +1,19 @@
 # Tugas-Alprog
 I Gusti Ayu Krisna Kusuma Dewi - 2205551072 \n
-Pada program C ini berisikan rumus-rumus operasi aritmetika yang dapat digunakan untuk menyelesaikan suatu perhitungan dengan menggunakan fungsi dan prosedur. Program ini mengaplikasikan fungsi serta prosedur di dalam setiap pemanggilan menu dan rumus yang akan digunakan.
+Pada program C ini berisikan rumus-rumus operasi aritmetika yang dapat digunakan untuk menyelesaikan suatu perhitungan dengan menggunakan fungsi dan prosedur. Program ini mengaplikasikan fungsi serta prosedur di dalam setiap pemanggilan menu dan rumus yang akan digunakan. Hal ini bertujuan untuk membagi-bagi kode program menjadi bagian yang lebih kecil sehingga lebih memudahkan programmer untuk melakukan perubahan ataupun membaca kode program tersebut.
 
 
 # Penggunaan Program Ini
 ### Menu
-Pada setiap bagian menu (baik menu utama maupun sub menu), pengguna diharapkan untuk memasukkan pilihan berupa angka/integer sesuai dengan fitur yang ingin diakses dan lalu menekan enter.
+Pada setiap bagian menu (baik menu utama maupun sub menu), pengguna diharapkan untuk memasukkan pilihan berupa angka/integer sesuai dengan fitur yang ingin diakses dan lalu menekan enter. Menu menggunakan statement switch-case untuk mencocokkan pilihan pengguna dengan kondisi yang ada dan memanggil fungsi atau prosedur sesuai dengan pilihan pengguna.
 ### Kalkulator
-Setelah memasuki fitur, Pengguna memasukkan angka yang diperlukan (dapat berupa float maupun integer) dan menekan enter. Program akan memberikan hasil dari perhitungan tersebut.
+Setelah memasuki fitur, Pengguna memasukkan angka yang diperlukan (dapat berupa float maupun integer) sesuai dengan keperluan rumus dan menekan enter. Program akan memberikan hasil dari perhitungan tersebut.
 ### Pengulangan 
-Setelah mendapatkan hasil, pengguna dapat kembali ke menu awal dengan memasukkan input 'Y' atau keluar dari program dengan memasukkan input 'N'.
+Setelah mendapatkan hasil, pengguna dapat kembali ke menu awal dengan memasukkan input 'Y' atau keluar dari program dengan memasukkan input 'N'. Fitur ini menggunakan statement if-else.
 ### Salah input
-Bila pengguna memasukkan input yang salah (contoh: kesalahan dalam memasukkan tipe data), maka program akan meminta pengguna untuk memasukkan input yang benar.
+Bila pengguna memasukkan input yang salah (contoh: kesalahan dalam memasukkan tipe data), maka program akan meminta pengguna untuk memasukkan input yang benar. Fitur ini memanfaatkan suatu fungsi serta if-else dan bool dalam penggunaannya.
+### Berpindah Menu / Mengulang Input
+Pada saat berpindah menu atau mengulang input, program menggunakan fungsi yang telah disediakan untuk me-reset tampilan layar sehingga tidak memenuhi layar tersebut serta melalukan flush pada stdin.
 
 
 # Output Program
@@ -76,3 +78,9 @@ Pada program ini, satuan yang digunakan adalah liter dan detik.
 ### 3. Menghitung Volume Air
 ![volume](https://user-images.githubusercontent.com/113322119/196034339-8748ab5a-40f5-4001-9f61-74d15ba1faaa.png)
 
+### Keluar
+![keluar](https://user-images.githubusercontent.com/113322119/196035650-78e9162f-c36f-4550-bd51-e8bc48e9301c.png)
+
+### Salah Input
+Program akan mengeluarkan output seperti pada tangkapan layar di bawah, lalu menjalankan system("cls") dan memanggil kembali fungsi menu yang bersangkutab.
+![image](https://user-images.githubusercontent.com/113322119/196036063-6b3d70b2-9a99-407f-b7ea-ea94b3a45e00.png)
