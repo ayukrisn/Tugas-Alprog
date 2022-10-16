@@ -195,13 +195,6 @@ void menuBangunRuang()
  }
 
 
-#include <stdio.h>
-#include<windows.h>
-#include <math.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <memory.h>
-
  void menuBarisArit()
  {
     int pilBarisArit = 0;
@@ -245,12 +238,6 @@ void menuBangunRuang()
  }
 
 
-#include <stdio.h>
-#include<windows.h>
-#include <math.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <memory.h>
 
  void menuBarisGeo()
  {
@@ -380,6 +367,10 @@ void persegi()
             persegi();
         }
 }
+
+float luasPersegi(float s)
+    double hasil;
+    hasil = pow(sisiPersegi, 2);
 
 
 void persegiPanjang()
@@ -530,13 +521,6 @@ void sSalah()
     segitiga();
 }
 
-
-#include <stdio.h>
-#include<windows.h>
-#include <math.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <memory.h>
 
 void lingkaran()
 {
