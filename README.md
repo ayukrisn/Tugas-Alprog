@@ -28,7 +28,7 @@ Berikut adalah output dari program rumus operasi aritmetika.
 Dalam segitiga, pengguna harus memasukkan nilai di mana a + b > c atau salah satu sisi harus lebih kecil dari jumlah kedua sisi lainnya.
 ![segitiga (benar)](https://user-images.githubusercontent.com/113322119/196033864-2aa0e1a5-616f-41a9-81d7-eacf2b8bf843.png)
 ![segitiga (salah)](https://user-images.githubusercontent.com/113322119/196033873-689ff52d-aa3f-4a61-bfdc-c62c976aca28.png)
-## 5. Rumus Lingkaran
+### 5. Rumus Lingkaran
 ![lingkaran](https://user-images.githubusercontent.com/113322119/196033899-dfcd7ed8-3ab9-4de1-b66a-eeb9ed8ea124.png)
 
 
