@@ -48,9 +48,27 @@ Dalam segitiga, pengguna harus memasukkan nilai di mana a + b > c atau salah sat
 
 ## Menu Baris dan Deret Aritmetika
 ![menu aritmetika](https://user-images.githubusercontent.com/113322119/196032515-fbb8c802-9f9a-4edc-8093-43595c29d0b8.png)
+### 1. Beda Barisan Aritmetika
+![beda](https://user-images.githubusercontent.com/113322119/196034375-03aa403f-b253-4627-9747-3f988cb2cd58.png)
+### 2. Suku Ke-n dan Jumlah n Suku Pertama
+![suku ke n dan jumlah](https://user-images.githubusercontent.com/113322119/196034380-582acb8a-5ff1-42bb-8335-e5b9eab5b660.png)
 
 ## Menu Baris dan Deret Geometri
 ![menu geometri](https://user-images.githubusercontent.com/113322119/196032520-c6bb82e9-fa4a-4fa9-b574-90dc7936e223.png)
+### 1. Rasio Barisan Geometri (r)
+![rasio](https://user-images.githubusercontent.com/113322119/196034357-776274d2-8a71-4081-9caa-92618789a216.png)
+### 2. Nilai Suku Ke-n Barisan Geometri
+![suku ke n](https://user-images.githubusercontent.com/113322119/196034366-2de24782-0a47-4e71-b8e7-8ff9e235ad65.png)
+### 3. Jumlah Suku Ke-n Barisan Geometri
+![jumlah n pertama](https://user-images.githubusercontent.com/113322119/196034345-4fcd87b7-a9ee-4b64-8ca9-d6bb354a13d7.png)
 
 ## Menu Debit, Waktu, dan Volume Air
+Pada program ini, satuan yang digunakan adalah liter dan detik.
 ![menu debit](https://user-images.githubusercontent.com/113322119/196032529-e287e936-9ea4-4b7c-8989-14f4191c8bf6.png)
+### 1. Menghitung Debit Air
+![debit](https://user-images.githubusercontent.com/113322119/196034335-06009e64-8af7-4058-810e-0feda2c67bbc.png)
+### 2. Menghitung Waktu Air
+![waktu](https://user-images.githubusercontent.com/113322119/196034341-f2ebc5a2-a85c-42d5-996f-626552889fb5.png)
+### 3. Menghitung Volume Air
+![volume](https://user-images.githubusercontent.com/113322119/196034339-8748ab5a-40f5-4001-9f61-74d15ba1faaa.png)
+
