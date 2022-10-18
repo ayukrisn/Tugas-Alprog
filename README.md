@@ -1,5 +1,6 @@
 # Tugas-Alprog
-(I Gusti Ayu Krisna Kusuma Dewi - 2205551072)
+(I Gusti Ayu Krisna Kusuma Dewi - 2205551072) \
+**Penjelasan Lengkap Ada di File PDF** \
 Pada program C ini berisikan rumus-rumus operasi aritmetika yang dapat digunakan untuk menyelesaikan suatu perhitungan dengan menggunakan fungsi dan prosedur. Program ini mengaplikasikan fungsi serta prosedur di dalam setiap pemanggilan menu dan rumus yang akan digunakan. Hal ini bertujuan untuk membagi-bagi kode program menjadi bagian yang lebih kecil sehingga lebih memudahkan programmer untuk melakukan perubahan ataupun membaca kode program tersebut. Fungsi dan prosedur dapat dipanggil secara berulang kali, sehingga menghemat waktu programmer dan membuat program lebih mudah untuk dibaca.
 
 
